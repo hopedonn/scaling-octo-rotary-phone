@@ -1,0 +1,14 @@
+HopkinsID:DMORGA47
+
+STRUCTURE: I structued my program by taking the input digrapghs and placing them in the map, putting all relevant digraphs within their corespoding map, key values. With the values
+that are associated to these keys being vectors as I can just push_back and keep order. Sort of like a queue in this case. 
+Due to maps being default sorted, a would be simple to implement, just print the map in its normal order. With r being just reversed and c having to take a sorting approach.
+I also added plenty of helper methods to not only clean up my code, but making it much easier to reuse certain functions that are used often when cleaning data that is being analyzed and properly sorting it.
+I foudn this to be the best approach due to the nature of this project requiring us to hold the order of inputs.
+
+CLEVER: For reverse just reading the pairs from the bottom to top since Maps are already sorted. In addition to not creating different maps that are defaulty sorted differently which would lead to more redundant code and more time needed to implement. 
+Also for the printed by count, I would find the largest vector within a map and then deitterate from that size checking if any other pairs within the map contain that vector size.
+ So it will eventaully print everything in proper counted order while not being the best implementation, it was very time efficent to implement. Also, since maps are already sorted by deafult,
+ when doing this implementation of count, the ties will be sorted out for me.
+
+STUCK: I was stuck on the count sorting for a sginficant amount of time. I was thankfully able to complete it.

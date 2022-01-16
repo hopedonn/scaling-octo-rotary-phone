@@ -1,0 +1,197 @@
+commit 82a8b6eecf413a4d30ee8cb8e5e97fdae971d744
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Nov 2 22:55:43 2021 -0400
+
+    Final code complete, completed small bug fix
+
+commit 68c0a2c24f9b222c1331fe469c079260b3f444fb
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Nov 2 22:22:37 2021 -0400
+
+    Commented portions of code
+
+commit e4dcaed023ba835f52fe6f367bc2c987dae6e313
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Nov 2 21:24:40 2021 -0400
+
+    updated gitlog.txt
+
+commit c992ac62d6828df5a9ce3f2b48e637d80ca0b2c2
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Nov 2 21:23:34 2021 -0400
+
+    Finished implementation of count printing
+
+commit d048c9b98b7a9adcad2164ba89a21b585d8b00bb
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Mon Nov 1 19:23:00 2021 -0400
+
+    Began working on final count sort
+
+commit f9fadd23c5f35e4531e3d3f554493f5c95a0d14f
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Mon Nov 1 18:13:58 2021 -0400
+
+    reverse print works
+
+commit 73e6c415c022f6a78996f04b184de102228a6dbd
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Mon Nov 1 17:32:39 2021 -0400
+
+    Began r,a,c formatting
+
+commit 439c5d37e75843f489dbb5cffb8127d58d4535ed
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Oct 27 17:27:12 2021 -0400
+
+    Began working on diagraph program, needs error checking and Makefile
+
+commit dece541f290784e575fb894862b0a1b18fac92c3
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Sun Oct 10 21:07:30 2021 -0400
+
+    Updated files
+
+commit 78ebb2bf91df3021a0c6dc5fe66ceb8504ed6c9b
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Sun Oct 10 20:48:49 2021 -0400
+
+    Starter code
+
+commit 096309fe1d7233a3d33f5a8218cb9772368969f9
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 29 22:30:15 2021 -0400
+
+    Final version of working maze project
+
+commit 4e9a0aad034903348ccbf0431f05562c0567c116
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 29 19:56:06 2021 -0400
+
+    Finished implementing correct return methods in addition to correcting minor bugs in code
+
+commit 60765e7b7aa5d0473aacee58d6fe053043ff94c5
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 29 19:35:52 2021 -0400
+
+    Almost done
+
+commit f17ad0489e8df4812fe4a400e38d67e71afe194e
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 29 15:07:21 2021 -0400
+
+    Close to being done some bugs
+
+commit 37f5f2f367425603ba780d25841373c8516e5c53
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 29 12:36:59 2021 -0400
+
+    Very much broken
+
+commit fc0956c8dd494443466b11a17f056d7a1dc4077a
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Mon Sep 27 23:19:49 2021 -0400
+
+    Nearly finished recursive maze solver and began coding hw3.c
+
+commit 263aa71109d246302f9a4de40bec110889df153c
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Mon Sep 27 21:48:57 2021 -0400
+
+    File maze able to scan from file and write to file
+
+commit 656df7867e6a2112d920ca3e816a3099cdd382f7
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Sep 14 16:12:08 2021 -0400
+
+    Final copy bug free
+
+commit 34afe83e10a5a08f2cf8ecc0846fc4ed62225518
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Sep 14 14:24:28 2021 -0400
+
+    added gitlog.txt file
+
+commit 7f6f9376a6fec8e4a8e0f8bbdb0c8c2361ed6b5c
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Tue Sep 14 14:22:29 2021 -0400
+
+    Final working version of HW.1
+
+commit a51681a871e4910765e93fcbad9633f1bdd12b74
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Sun Sep 12 21:03:55 2021 -0400
+
+    SLightly buggy HW1
+
+commit 78b119ff1a3d26de8583e21d01063a04fa6090ca
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Fri Sep 10 00:52:28 2021 -0400
+
+    HW0 Finished
+
+commit d6ffb7a17985b653b34236123ffb77a57d2ed9f6
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Fri Sep 10 00:36:10 2021 -0400
+
+    Final Version
+
+commit 37312826f6c4e867ea2059cb565fbd9cc01ebf79
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Fri Sep 10 00:30:40 2021 -0400
+
+    FInished HW0
+
+commit 56a7e912959966f28c55115151e22e86ca07d073
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Thu Sep 9 02:49:10 2021 -0400
+
+    Working version pretty much complete
+
+commit d1228d55d3c93fe98ae0b05575dd9d842c75cce3
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Thu Sep 9 00:43:52 2021 -0400
+
+    started process for subtracting from vending machine
+
+commit 845e583e23316c49a4b051c195650308e4ba1f4b
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 23:59:18 2021 -0400
+
+    Correctly printing starting screen
+
+commit 424c800d4b437425b74c279722e84d9571c48a22
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 22:58:02 2021 -0400
+
+    added exercises folder to repo
+
+commit c57bf6a24685b4cbf4a3ac7f42a83f04c2b70035
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 22:54:56 2021 -0400
+
+    Added starter coe for printing start
+
+commit ee9bfa78f2ee370aaa5fcef91b029bc2bbf6be31
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 22:39:37 2021 -0400
+
+    Created File
+
+commit f7741ef14156bb33cdc2507edde1027622979d2e
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 12:59:39 2021 -0400
+
+    added homework to repo
+
+commit 2face069149fbae5e884cffe86f44576e353e140
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 12:24:10 2021 -0400
+
+    UPDATED README
+
+commit a1db7bf7fdede1ccffb28252b031798a9fc17721
+Author: hopedonn <dmorga47@jh.edu>
+Date:   Wed Sep 8 12:18:15 2021 -0400
+
+    created README
